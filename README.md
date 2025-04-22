@@ -1,5 +1,5 @@
 # MY name is Emanuele,
-##i'm from 1TDS
+## i'm from 1TDS
 ### Study in loureiro fernandes
 <!--
 **emanuCris/emanuCris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
